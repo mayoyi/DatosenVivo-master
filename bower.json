@@ -1,0 +1,13 @@
+{
+  "name": "datosenvivosuntech",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.22.1",
+    "sweetalert2": "^7.19.3",
+    "angular-material-data-table": "^0.10.10",
+    "jquery-table2excel": "^1.1.1"
+  },
+  "devDependencies": {
+    "dialog-polyfill": "^0.4.3"
+  }
+}

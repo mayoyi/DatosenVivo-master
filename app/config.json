@@ -1,0 +1,21 @@
+{
+  "name": "DatosEnVivoSuntech",
+  "supportEmail": "mayra.delgado@metricamovil.com",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "datosEnVivoSuntech.html",
+    "path": "",
+    "menuName": {
+      "en": "DatosEnVivoSuntech"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "datosEnVivoSuntech",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
